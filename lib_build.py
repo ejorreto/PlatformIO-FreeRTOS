@@ -92,7 +92,7 @@ def getLocalTag(path):
 
 ################################## MAIN SCRIPT ##################################
 
-port = []
+port = ['STM32F7xx']
 freertos_tag = ""
 tag_name = ""
 
